@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MichelleRitaM
-- 👀 I’m interested in python and ux/ui
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me michellerita.mr.mr@gmail.com
+- 📫 How to reach me michelleritam37@gmail.com
+- 
 
 <!---
 MichelleRitaM/MichelleRitaM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
